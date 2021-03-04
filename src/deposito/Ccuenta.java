@@ -8,6 +8,7 @@ package deposito;
 /**
  *
  * @author AndresEntornos
+ * Visto
  */
 public class Ccuenta {
 
